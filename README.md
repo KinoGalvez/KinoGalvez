@@ -15,29 +15,33 @@
        alt="snake" /></a>
 </div>
 
-
+### About me 👨‍🎓(Eternal Learner):
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">👀Curiosity is the new Currency💰</h2></summary>
   </ul>
 </div>
-
+<div>
+  <p>
+    <strong>Passionate about technology and with many years of experience in management 
+    and administration, I excel at teamwork, proactivity, analytical thinking, and sacrifice.
+    I have recently completed a data science bootcamp to strengthen my skills in Python, 
+    machine learning, and data engineering. My business management experience combines
+    with these skills make me a well-rounded professional, ready to bring a broad 
+    perspective and solutions to all types of projects.</strong>
+  </p>
+</div>
+<hr> <!-- Add this line for separation -->
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+- 🔭 I’m currently working on **new data projects to aligning my extensive <br>professional experience with the recently acquired data science training.**
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🌱 I’m currently learning **Power BI and MySQL**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- ☁️ I've keen interest in **Python, NLP and Machine Learning**
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
-
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
-
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
-
-- 🏠 Also We've a tech community called [Dev Hac](https://discord.com/invite/p4TWyft886).
+- 💼 I am eager to demonstrate my professional worth.
 <!--Intro end-->
 
 
