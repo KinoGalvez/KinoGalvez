@@ -78,12 +78,12 @@
 ---
 ### My Projects ✨:
   
-<a href="https://github.com/Davekibh/Background-generator">
+<a href="https://github.com/KinoGalvez/CREDIT1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KinoGalvez&repo=CREDIT1&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Davekibh/robofriends">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=robofriends&theme=tokyonight" />
+<a href="https://github.com/KinoGalvez/EDA_NUFORC">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KinoGalvez&repo=EDA_NUFORC&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/Davekibh/Picture-Sharing-app">
