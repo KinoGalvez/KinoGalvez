@@ -93,15 +93,16 @@
 <a href="https://github.com/KinoGalvez/app_consultas_ChatGPT">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KinoGalvez&repo=app_consultas_ChatGPT&theme=tokyonight" />
 </a>
+<br/>
+
+</details>
+
+---
+### Technologies 🐍📊📒📋🤖🧠📈
+### And Tools    ☁️🚀🔥✨🐘💡🔄:
 
 
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
