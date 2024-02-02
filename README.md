@@ -76,14 +76,10 @@
 </details>
 
 ---
-<br/>
-<br/>
-<br/>
-
 ### My Projects ✨:
   
 <a href="https://github.com/Davekibh/Background-generator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Background-generator&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KinoGalvez&repo=CREDIT1&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/Davekibh/robofriends">
