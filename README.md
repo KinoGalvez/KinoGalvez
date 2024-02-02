@@ -41,9 +41,14 @@
 
 - ☁️ I've keen interest in **Python, NLP and Machine Learning**
 
-- 💼 I am eager to demonstrate my professional worth.
+- ### 💼 I am eager to demonstrate my professional worth.
 <!--Intro end-->
+<br/>
 
+</details>
+
+---
+### Github Activity ✔:
 
 
 <!--- stats & Trophy (start) -->
@@ -53,32 +58,53 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=KinoGalvez&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=KinoGalvez&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=KinoGalvez&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
 </table>
 <!--- stats (end) -->
+<br/>
 
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=1010nishant&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
+</details>
 
+---
+<br/>
+<br/>
+<br/>
 
-</p>        
-<!--- stats (end) -->
+### My Projects ✨:
+  
+<a href="https://github.com/Davekibh/Background-generator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Background-generator&theme=tokyonight" />
+</a>
 
+<a href="https://github.com/Davekibh/robofriends">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=robofriends&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Davekibh/Picture-Sharing-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Picture-Sharing-app&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Davekibh/Chat-app">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Chat-app&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Davekibh/Quiz-App">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Quiz-App&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Davekibh/Quiz-Admin-App">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Quiz-Admin-App&theme=tokyonight" />
+</a>
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
