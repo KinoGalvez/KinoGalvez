@@ -131,22 +131,20 @@
 
 <a href="mailto:kinogalvezrodriguez@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+<br/>
 
+</details>
 
-
-
-
+---
 <!--profile visit count-->
 <div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=KinoGalvez&icon=3&color=6)](https://visitcount.itsvg.in)
-  
-</div>
+[![](https://visitcount.itsvg.in/api?id=KinoGalvez&icon=3&color=6)](https://visitcount.itsvg.in)   
+
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ----------------------------------------------------------------------
-Credit: [1010nishant](https://github.com/1010nishant)
+Credit: [KinoGalvez](https://github.com/KinoGalvez)
 
-Last Edited on: 29/4/2023
+Last Edited on: 07/2/2024
