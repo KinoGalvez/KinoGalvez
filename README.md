@@ -90,17 +90,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KinoGalvez&repo=Proyecto-BBDD&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Davekibh/Chat-app">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Chat-app&theme=tokyonight" />
+<a href="https://github.com/KinoGalvez/app_consultas_ChatGPT">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KinoGalvez&repo=app_consultas_ChatGPT&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Davekibh/Quiz-App">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Quiz-App&theme=tokyonight" />
-</a>
 
-<a href="https://github.com/Davekibh/Quiz-Admin-App">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Quiz-Admin-App&theme=tokyonight" />
-</a>
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
