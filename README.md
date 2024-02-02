@@ -86,8 +86,8 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KinoGalvez&repo=EDA_NUFORC&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Davekibh/Picture-Sharing-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Picture-Sharing-app&theme=tokyonight" />
+<a href="https://github.com/KinoGalvez/Proyecto-BBDD">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KinoGalvez&repo=Proyecto-BBDD&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/Davekibh/Chat-app">
