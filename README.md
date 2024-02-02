@@ -120,10 +120,10 @@
 ---
 ### Connect With Me🤝:
 <br/>
-<a href="https://https://www.kaggle.com/joaquingalvez" target="_blank">
+<a href="https://www.kaggle.com/joaquingalvez" target="_blank">
 <img src=https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 
-<a href="https://github.com/pingcap/ossinsight/discussions" target="_blank">
+<a href="https://github.com/KinoGalvez" target="_blank">
 <img src=https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 
 <a href="mailto:ossinsight@pingcap.com" target="_blank">
