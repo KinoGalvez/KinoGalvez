@@ -136,6 +136,10 @@
 ---
 <!--profile visit count-->
 <div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=brightgreen" alt="watching_count" />
+ 
+ 
 [![](https://visitcount.itsvg.in/api?id=KinoGalvez&icon=3&color=6)](https://visitcount.itsvg.in)
 
 [![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
