@@ -25,7 +25,7 @@
 <div>
   <p>
     <strong>Passionate about technology and with many years of experience in management 
-    and administration, I excel at teamwork, proactivity, analytical thinking, and sacrifice.
+    and administration, I excel at teamwork, proactivity, analytical thinking, and adaptability.
     I have recently completed a data science bootcamp to strengthen my skills in Python, 
     machine learning, and data engineering. My business management experience combines
     with these skills make me a well-rounded professional, ready to bring a broad 
