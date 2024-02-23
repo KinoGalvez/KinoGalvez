@@ -138,7 +138,7 @@
 <div align="center">
 [![](https://visitcount.itsvg.in/api?id=KinoGalvez&icon=3&color=6)](https://visitcount.itsvg.in)
 
-
+[![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
 
 <div align="center">
 <!--horizontal divider(gradiant)-->
